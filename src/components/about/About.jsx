@@ -1,12 +1,13 @@
 import React from 'react';
 import "./about.css";
-import ME from "../../assets/me.jpeg";
+import ME from "../../assets/me.jpg";
 import { FaAward } from 'react-icons/fa';
 import {FiUsers} from "react-icons/fi";
 import {VscFolderLibrary} from "react-icons/vsc";
 
 const about_data = {
-  summary: "I am a developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.",
+  // summary: "I am a developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.",
+  summary:"Well versed in frontend, backend, database systems and  DevOps processes, excited by the prospect of developing scalable and reliable solutions that solves real world problems. Can work well in an individual or team environments, with minimal supervision.",
   experience: "2",
   clients: "10",
   projects: "10",

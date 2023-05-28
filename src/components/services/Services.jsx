@@ -71,28 +71,28 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Digital Marketing</h3>
+            <h3>Mobile App Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Publish digital marketing content online</p>
+              <p>Development of mobile applications using Flutter with proper and scalable code structure</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Determine what content will reach customers</p>
+              <p>Using a suitable State management for App functionality.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Research competitors’ pricing and products</p>
+              <p>Integrating mobile app with backend REST Api</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Implement email marketing campaigns</p>
+              <p>Deployment of new updates to playstore and AppStore </p>
             </li>
           </ul>
         </article>
