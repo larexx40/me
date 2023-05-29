@@ -1,6 +1,7 @@
 import React from 'react';
 import "./footer.css";
-import { FaLinkedIn } from 'react-icons/fa';
+// import { FaLinkedIn } from 'react-icons/fa';
+import {BsLinkedin} from "react-icons/bs";
 import { FaGitHub } from 'react-icons/fa';
 import { IoLogoTwitter } from "react-icons/io";
 
