@@ -7,9 +7,9 @@ import { Main } from './Main';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename={window.location.pathname || ""}>
         <Routes>
-          <Route path='/me/' exact element={<Main />} />
+          <Route path='/' exact element={<Main />} />
         </Routes>      
       </Router>
     </>
@@ -17,5 +17,6 @@ function App() {
 }
 
 export default App;
+
 
 
