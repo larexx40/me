@@ -9,7 +9,7 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route path='/' exact element={<Main />} />
+          <Route path='/me/' exact element={<Main />} />
         </Routes>      
       </Router>
     </>
@@ -17,3 +17,5 @@ function App() {
 }
 
 export default App;
+
+
