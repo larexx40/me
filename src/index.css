@@ -11,10 +11,18 @@
 }
 
 :root{
-  --color-bg: #1f1f38;
+  /* --color-bg: #1f1f38;
   --color-bg-variant: #2c2c6c;
   --primary-color: #4db5ff;
   --primary-color-variant: rgba(77, 181, 255, 0.4);
+  --white-color: #fff;
+  --light-color: rgba(255, 255, 255, 0.6); */
+  
+  --color-bg: #303f9f; /* Deep Indigo */
+  --color-bg-variant: #6c757d; /* Slate Gray */
+  --primary-color: #ff6f61; /* Coral */
+  --primary-color-variant: rgba(255, 111, 97, 0.4); /* Adjusted variant for coral */
+  --cta-color: #ffd700; /* Gold */
   --white-color: #fff;
   --light-color: rgba(255, 255, 255, 0.6);
 
