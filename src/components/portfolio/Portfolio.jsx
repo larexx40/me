@@ -14,7 +14,7 @@ const data = [
     title:
       "Gate Africa empowers users to effortlessly create and send guest invitations to their estates. Avaliable on play store and app store",
     github: "",
-    demo: "https://gate.com.ng/home/index.php",
+    demo: "https://gate.africa/",
   },
   {
     id: 2,
@@ -36,7 +36,8 @@ const data = [
     image: IMG7,
     title: "Shortleters - A proptech system that deals with the booking, letting of shortlets apartments",
     github: "",
-    demo: "https://beta.shortleters.com/"
+    // demo: "https://beta.shortleters.com/"
+    demo:""
   },
   {
     id: 5,
